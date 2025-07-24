@@ -1,0 +1,7 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="80" height="80" rx="16" fill="#22C55E"/>
+  <rect x="18" y="36" width="44" height="8" rx="4" fill="#fff"/>
+  <rect x="14" y="32" width="8" height="16" rx="4" fill="#fff"/>
+  <rect x="58" y="32" width="8" height="16" rx="4" fill="#fff"/>
+  <text x="40" y="70" text-anchor="middle" font-size="14" font-family="Arial, Helvetica, sans-serif" fill="#fff" font-weight="bold">StreakFit</text>
+</svg> 
