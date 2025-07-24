@@ -1,3 +1,5 @@
+"use client";
+
 import Image from "next/image";
 import DailyCheckIn from "@/components/DailyCheckIn";
 import StreakDisplay from "@/components/StreakDisplay";
@@ -26,7 +28,12 @@ export default function Home() {
           </p>
         </div>
         <div className="flex flex-col sm:flex-row gap-4 justify-center mt-6">
-          <button className="bg-green-600 hover:bg-green-700 text-white font-semibold py-3 px-8 rounded-full shadow-md transition-colors text-lg">
+          <button
+            onClick={() => {
+              /* Add navigation logic */
+            }}
+            className="bg-green-600 hover:bg-green-700 text-white font-semibold py-3 px-8 rounded-full shadow-md transition-colors text-lg"
+          >
             Get Started
           </button>
           <a
